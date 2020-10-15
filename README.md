@@ -1,1 +1,1 @@
-# Watch us Build Trello clone
+# Watch us build Trello clone
